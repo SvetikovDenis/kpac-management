@@ -8,13 +8,34 @@ insert into kpac values (default , 'Database','A database is an organized collec
 insert into kpac values (default , 'Docker','Docker is a set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.',now());
 insert into kpac values (default , 'Atari','The original Atari, Inc., founded in Sunnyvale, California in 1972 by Nolan Bushnell and Ted Dabney, was a pioneer in arcade games, home video game consoles, and home computers.',now());
 insert into kpac values (default , 'Donald Trump',' The Simpsons episode "Bart to the Future", written during his 2000 campaign for the Reform party, anticipated a future Trump presidency.',now());
+insert into kpac values (default , 'Algorithm',' The Simpsons episode "Bart to the Future", written during his 2000 campaign for the Reform party, anticipated a future Trump presidency.',now());
+insert into kpac values (default , 'Data Structures','A data structure is a particular way of organizing data in a computer so that it can be used effectively.',now());
+insert into kpac values (default , 'Spring Cloud','Coordination of distributed systems leads to boiler plate patterns, and using Spring Cloud developers can quickly stand up services and applications that implement those patterns.',now());
+insert into kpac values (default , 'Paramecium caudatum',' The Simpsons episode "Bart to the Future", written during his 2000 campaign for the Reform party, anticipated a future Trump presidency.',now());
+insert into kpac values (default , 'Moscovium','Moscovium is a synthetic chemical element with the symbol Mc and atomic number 115. ',now());
+insert into kpac values (default , 'DMT','N,N-Dimethyltryptamine  is a chemical substance that occurs in many plants and animals and which is both a derivative and a structural analog of tryptamine.',now());
+insert into kpac values (default , 'Socratic method','Perhaps his most important contribution to Western thought is his dialectic method of inquiry, which he largely applied to the examination of key moral concepts such as the Good and Justice.',now());
+insert into kpac values (default , 'Logarithm','In mathematics, the logarithm is the inverse function to exponentiation. ',now());
 
 insert into kpac_set values (default , "Books set");
 insert into kpac_set values (default , "Movies set");
 insert into kpac_set values (default , "Random facts set");
+insert into kpac_set values (default , "IT set");
+insert into kpac_set values (default , "Biology set");
+insert into kpac_set values (default , "Chemistry set");
+insert into kpac_set values (default , "Philosophy set");
+insert into kpac_set values (default , "Math set");
 
 insert into kpac_set_kpac values (default , 1,1);
 insert into kpac_set_kpac values (default , 2,2);
 insert into kpac_set_kpac values (default , 3,3);
 insert into kpac_set_kpac values (default , 3,4);
 insert into kpac_set_kpac values (default , 3,5);
+insert into kpac_set_kpac values (default , 4,7);
+insert into kpac_set_kpac values (default , 4,8);
+insert into kpac_set_kpac values (default , 4,9);
+insert into kpac_set_kpac values (default , 5,10);
+insert into kpac_set_kpac values (default , 6,11);
+insert into kpac_set_kpac values (default , 6,12);
+insert into kpac_set_kpac values (default , 7,13);
+insert into kpac_set_kpac values (default , 8,14);
